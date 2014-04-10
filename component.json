@@ -1,0 +1,15 @@
+{
+  "name": "codec-utf8String",
+  "repository": "slang800/codec-utf8String",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "slang800/bit-array": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
